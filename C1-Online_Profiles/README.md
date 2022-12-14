@@ -12,6 +12,4 @@ https://github.com/Zepheroph
 ### LinkedIn
 https://www.linkedin.com/in/jamal-rodgers-1167a6243/
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-Resume (C:\Users\chris\IdeaProjects\liftoff-assignments\C1-Online_Profiles\LiftOff Resume.pdf)
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+https://docs.google.com/document/d/1VOz8_YRBy7rtlgPcm0WQWjAyKUOihDBEpSuifkQNpT8/edit#heading=h.31lznrljrsng> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
